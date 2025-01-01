@@ -6,8 +6,7 @@
 
 ## Extended Abstract for PROJ3999 (Major Project)  
 
-### Title:  
-**Design and Performance Analysis of III-V Heterostructure for DNA Detection**  
+### Title: **Design and Performance Analysis of III-V Heterostructure for DNA Detection**  
 
 **Project Supervisor:** Girish Shankar Mishra  
 **Cluster Name:** VLSI  
