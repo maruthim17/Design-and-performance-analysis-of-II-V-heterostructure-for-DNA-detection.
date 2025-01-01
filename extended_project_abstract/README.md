@@ -1,11 +1,3 @@
-# GITAM Department of Electrical, Electronics, and Communication Engineering  
-**GITAM School of Technology**  
-**GITAM (Deemed to be University), Bengaluru, India**  
-
----
-
-## Extended Abstract for PROJ3999 (Major Project)  
-
 ### Title: **Design and Performance Analysis of III-V Heterostructure for DNA Detection**  
 
 **Project Supervisor:** Girish Shankar Mishra  
