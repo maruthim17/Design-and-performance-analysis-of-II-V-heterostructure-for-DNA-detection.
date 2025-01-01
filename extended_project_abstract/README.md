@@ -46,15 +46,15 @@ Integration of nanostructures (e.g., quantum dots, nanowires) further enhanced d
 
 ## Project Timeline (Gantt Chart)  
 
-| Activity                             | Timeline (Weeks)          |  
-|--------------------------------------|---------------------------|  
-| Project Planning                     | 1-2                       |  
-| Material Selection                   | 3-4                       |  
-| Heterostructure Design               | 5-7                       |  
-| Fabrication and Functionalization    | 8-10                      |  
-| Performance Analysis                 | 11-13                     |  
-| Optimization                         | 14-15                     |  
-| Report Writing                       | 16-18                     |  
+| Activity                             | Timeline (Weeks)          |  Activities
+|--------------------------------------|---------------------------|  ----------------------------------------------------------------------------|
+| Project Planning                     | 1-2                       |  Literature review, defining objectives, and preparing theresearch framework
+| Material Selection                   | 3-4                       |  Selecting ll-V compounds and functionalization materials
+| Heterostructure Design               | 5-7                       |  Designing and simulating the heterostructure for optimal DNA detection 
+| Fabrication and Functionalization    | 8-10                      |  Fabricating the heterostructure and functionalizing the surface 
+| Performance Analysis                 | 11-13                     |  Testing sensitivity, specificity, LOD, and response time 
+| Optimization                         | 14-15                     |  Refining the design and improving performance metrics 
+| Report Writing                       | 16-18                     |  Documenting results and preparing the final project report
 
 ---
 
